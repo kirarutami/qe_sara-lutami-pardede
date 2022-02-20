@@ -1,2 +1,11 @@
 branch1: master
 perubahan ini ada di branch master
+
+branch2: development
+perubahan ini ada di branch development
+
+branch3: feature1
+perubahan ini ada di branch feature1
+
+branch4: feature2
+perubahan ini ada di branch feature2
