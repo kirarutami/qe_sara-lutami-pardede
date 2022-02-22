@@ -6,7 +6,6 @@ Rangkuman ini berisi:
 3. Mengoptimalkan Kolaborasi Development
 
 ## Versioning / Version Control
-----------------------------
 
 → sebuah sistem yang merekam perubahan-perubahan dari waktu ke waktu sehingga kita dapat melihat kembali versi tertentu suatu saat nanti.
 
@@ -15,13 +14,12 @@ Nantinya bertugas untuk mencatat versi yang dikerjakan oleh orang ataupun sebuah
 > **Revision is a must** | don’t expect every code is perfect
 
 ## Git
----
 → salah satu version control system populer yang digunakan para developer untuk mengembangkan software secara bersama-sama. Git dapat melacak perubahan yang diberikan, kemudian juga dapat kembali ke beberapa poin (versi) sebelumnya.
 
 “Commit” → catatan perubahan
 GitHub → Git hosting service
 
-[!staging](./screenshots/staging-area.png)
+![!staging](./screenshots/staging-area.png)
 
 
 ### Some command(s) to note:
@@ -80,4 +78,4 @@ GitHub → Git hosting service
     
 ### Hasil Pengerjaan
 
-[!hasil](./screenshots/hasil-insight-network.png)
+![!hasil](./screenshots/hasil-insight-network.png)
