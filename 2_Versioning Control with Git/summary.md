@@ -1,5 +1,9 @@
 # Session 2 - Versioning Control with Git
-=======================================
+
+Rangkuman ini berisi:
+1. Versioning / Version Control
+2. Git
+3. Mengoptimalkan Kolaborasi Development
 
 ## Versioning / Version Control
 ----------------------------
@@ -17,7 +21,7 @@ Nantinya bertugas untuk mencatat versi yang dikerjakan oleh orang ataupun sebuah
 “Commit” → catatan perubahan
 GitHub → Git hosting service
 
-[!staging-area](./screenshots/staging-area.png)
+[!staging](./screenshots/staging-area.png)
 
 
 ### Some command(s) to note:
@@ -76,4 +80,4 @@ GitHub → Git hosting service
     
 ### Hasil Pengerjaan
 
-[!hasil-insight-network](./screenshots/hasil-insight-network.png)
+[!hasil](./screenshots/hasil-insight-network.png)
