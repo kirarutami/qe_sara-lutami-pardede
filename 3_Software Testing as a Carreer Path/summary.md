@@ -41,9 +41,8 @@ Rangkuman ini berisi:
 5.  Quality Engineer Manager (8-11 years experience)
 
 ## Praktikum
-![!soal](./screenshots/soal.png))
-
-Pengguna diberikan ember 5L dan 3L
+![!soal](./screenshots/soal.png)
+Pengguna diberikan ember 5L dan 3L. 
 Identifikasi masalah: bagaimana pengguna bisa mendapatkan 4L?
 Step yang harus diikuti:
 1.  Isi penuh ember 3L, tuang ke ember 5L hingga habis
