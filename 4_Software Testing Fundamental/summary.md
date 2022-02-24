@@ -46,7 +46,7 @@ Rangkuman ini berisi:
 
 ---------
 ## Praktikum
-<img src= "https://drive.google.com/file/d/1MnKP6fZbHvmX5Mqsohq3Qcj5Bo7SbJNy/view?usp=sharing">
+![Soal1](https://drive.google.com/file/d/1MnKP6fZbHvmX5Mqsohq3Qcj5Bo7SbJNy/view?usp=sharing "Soal 1")
 
 Line Coverage = salah satu jenis white box testing. Biasanya juga dikenal dengan Code Coverage. Line coverage mengukur seberapa banyak baris kode yang telah dibuat sudah dilakukan proses testing. Semakin tinggi Line Coverage, semakin tinggi tingkat kepercayaan klien terhadap sistem yang sedang dibuat.
 
@@ -61,7 +61,7 @@ Dari soal diatas, bisa disimpulkan bahwa:
 2. Test case kedua memiliki Line Coverage sebanyak 6/6, berarti semua baris telah diuji. 
     Untuk Mutation Coverage telah dijalankan sebanyak 3/4 (75%), menandakan ada 3 hasil mutasi killable dari 4 mutasi. Hasil mutasi yang belum sampai 100% menandakan bahwa kita harus menambah test case lagi agar hasil menjadi 100%
 
-<img src= "https://drive.google.com/file/d/1P5BTChFFU9XTSKwU-zga2TscDTdQGky7/view?usp=sharing">
+![Soal2](https://drive.google.com/file/d/1P5BTChFFU9XTSKwU-zga2TscDTdQGky7/view?usp=sharing "Soal 2")
 
 Dalam soal di atas, terdapat sebuah class yang bernama CalculatorServiceImpl, di dalamnya ada add dan substract.
 
