@@ -46,7 +46,7 @@ Rangkuman ini berisi:
 
 ---------
 ## Praktikum
-![!soal1](https://drive.google.com/file/d/1MnKP6fZbHvmX5Mqsohq3Qcj5Bo7SbJNy/view?usp=sharing)
+<img src= "https://drive.google.com/file/d/1MnKP6fZbHvmX5Mqsohq3Qcj5Bo7SbJNy/view?usp=sharing">
 
 Line Coverage = salah satu jenis white box testing. Biasanya juga dikenal dengan Code Coverage. Line coverage mengukur seberapa banyak baris kode yang telah dibuat sudah dilakukan proses testing. Semakin tinggi Line Coverage, semakin tinggi tingkat kepercayaan klien terhadap sistem yang sedang dibuat.
 
@@ -55,13 +55,16 @@ Mutation Coverage = testing yang dilakukan terhadap suatu program dengan memodif
 Mutasi disebut dengan non-killable jika mutan yang dimasukkan menghasilkan output yang sama. Sedangkan killable jika mutan yang dimasukkan menghasilkan output yang berbeda, dan hasil ini yang diinginkan oleh tester.
 
 Dari soal diatas, bisa disimpulkan bahwa:
-    Test case pertama memiliki line coverage 6/9, menandakan baris yang telah diuji ada sebanyak 6 dari 9 baris yang tersedia. Sedangkan mutation coverage yang ada sebanyak 2/ (67%), menandakan ada 2 hasil mutasi killable dari 3 mutasi. Hasil mutasi yang belum sampai 100% menandakan bahwa kita harus menambah test case lagi agar hasil menjadi 100%
+1. Test case pertama memiliki line coverage 6/9, menandakan baris yang telah diuji ada sebanyak 6 dari 9 baris yang tersedia. 
+    Sedangkan mutation coverage yang ada sebanyak 2/ (67%), menandakan ada 2 hasil mutasi killable dari 3 mutasi. 
+    Hasil mutasi yang belum sampai 100% menandakan bahwa kita harus menambah test case lagi agar hasil menjadi 100%
+2. Test case kedua memiliki Line Coverage sebanyak 6/6, berarti semua baris telah diuji. 
+    Untuk Mutation Coverage telah dijalankan sebanyak 3/4 (75%), menandakan ada 3 hasil mutasi killable dari 4 mutasi. Hasil mutasi yang belum sampai 100% menandakan bahwa kita harus menambah test case lagi agar hasil menjadi 100%
 
-    Test case kedua memiliki Line Coverage sebanyak 6/6, berarti semua baris telah diuji. Untuk Mutation Coverage telah dijalankan sebanyak 3/4 (75%), menandakan ada 3 hasil mutasi killable dari 4 mutasi. Hasil mutasi yang belum sampai 100% menandakan bahwa kita harus menambah test case lagi agar hasil menjadi 100%
-
-![!soal2]https://drive.google.com/file/d/1P5BTChFFU9XTSKwU-zga2TscDTdQGky7/view?usp=sharing)
+<img src= "https://drive.google.com/file/d/1P5BTChFFU9XTSKwU-zga2TscDTdQGky7/view?usp=sharing">
 
 Dalam soal di atas, terdapat sebuah class yang bernama CalculatorServiceImpl, di dalamnya ada add dan substract.
-    Bisa disimpulkan bahwa method add dapat berhasil (dengan adanya highlight hijau) dikarenakan proses penambahan tidak ada kesalahan.
 
-    Sedangkan untuk method substract, method gagal (dengan adanya highlight merah) dikarenakan proses pengurangan ambigu. Bisa saja b-a alih-alih a-b.
+Bisa disimpulkan bahwa method add dapat berhasil (dengan adanya highlight hijau) dikarenakan proses penambahan tidak ada kesalahan.
+
+Sedangkan untuk method substract, method gagal (dengan adanya highlight merah) dikarenakan proses pengurangan ambigu. Bisa saja b-a alih-alih a-b.
