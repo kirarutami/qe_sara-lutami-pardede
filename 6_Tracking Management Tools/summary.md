@@ -14,29 +14,20 @@ Rangkuman ini berisi:
 
 ## Panel Fase pada JIRA
 ![!fase](./screenshots/fase-pada-jira.png)
-TO DO → berisi story yang akan dikerjakan dan telah diprioritaskan saat planning. Story yang ditempatkan paling atas menandakan story tersebut merupakan prioritas utama.
-
-IN PROGRESS → berisi story atau yang sedang dikerjakan oleh software engineer/developer.
-
-FINISH → berisi story yang telah selesai dikerjakan oleh software engineer/developer, namun belum siap untuk tahap testing.
-
-DELIVER → berisi story yang siap memasuki tahap testing oleh Quality Engineer.
-
-TESTING → berisi story yang sedang di testing oleh Quality Engineer.
-
-NEED FIX → berisi hasil proses testing yang tidak lolos kriteria oleh tim development.
-
-DONE → berisi hasil proses testing yang telah lolos kriteria oleh tim development.
+1. TO DO → berisi story yang akan dikerjakan dan telah diprioritaskan saat planning. Story yang ditempatkan paling atas menandakan story tersebut merupakan prioritas utama.
+2. IN PROGRESS → berisi story atau yang sedang dikerjakan oleh software engineer/developer.
+3. FINISH → berisi story yang telah selesai dikerjakan oleh software engineer/developer, namun belum siap untuk tahap testing.
+4. DELIVER → berisi story yang siap memasuki tahap testing oleh Quality Engineer.
+5. TESTING → berisi story yang sedang di testing oleh Quality Engineer.
+6. NEED FIX → berisi hasil proses testing yang tidak lolos kriteria oleh tim development.
+7. DONE → berisi hasil proses testing yang telah lolos kriteria oleh tim development.
 
 
 ## Issue Type pada JIRA
-Story → jenis issue yang biasa digunakan untuk membuat fitur baru
-
-Task → jenis issue yang biasa digunakan untuk membuat perincian tugas tugas yang akan dikerjakan
-
-Bug → jenis issue yang biasa digunakan jika terjadi penemuan bug saat proses testing oleh software tester
-
-Epic → jenis issue untuk melakukan pengelompokan task
+1. Story → jenis issue yang biasa digunakan untuk membuat fitur baru
+2. Task → jenis issue yang biasa digunakan untuk membuat perincian tugas tugas yang akan dikerjakan
+3. Bug → jenis issue yang biasa digunakan jika terjadi penemuan bug saat proses testing oleh software tester
+4. Epic → jenis issue untuk melakukan pengelompokan task
 
 ## Praktikum (Theory)
 1. Apa yang dimaksud dengan Bugs? 
