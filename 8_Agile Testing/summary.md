@@ -4,8 +4,7 @@ Rangkuman ini berisi:
 1. Definisi  Software Development Life Cycle (SDLC)
 2. Model SDLC
 3. Agile Testing Manifesto
-4. Testing Pyramid
-5. Praktikum
+4. Praktikum
 
 ## Definisi  Software Development Life Cycle (SDLC)
 → proses yang digunakan untuk merancang, mengembangkan, serta menguji software berkualitas tinggi. Tujuannya untuk membantu organisasi menghasilkan software berkualitas tinggi dengan waktu yang singkat dan biaya yang rendah, namun tetap memenuhi atau bahkan melebihi harapan pelanggan. Fungsi lainnya adalah dapat memberikan gambaran input dan output dari satu tahap ke tahap berikutnya.
@@ -64,18 +63,6 @@ hal-hal yang jauh dari agile testing manifesto :
 5. The Whole Team is Responsible for Quality, not Just the Tester
   jgn bebanin ke QE yang ga teliti cek bug, atau salahin dev karena salah coding, tp semua bertanggung jawab.
 
-## Testing Pyramid
-3 level
-
-UI -> service -> unit test
-Ui -> integration -> unit test
-
-unit test = menguji tiap komponen perangkat lunak, pada saat di buat oleh developer, berupa modul, function, objek dll
-
-integration = pengujian dr hasil gabungan unit2, dilakukan secara bertahap
-UI = testing tingkat tinggi
-semakin tinggi level = semakin sedikit test yg kita lakukan karena semakin mahal
-semakin rendah maka semakin cepat pelaksanaannya
 ===
 # Praktikum
 ## Pada fase apa saja QE berperan pada proses SDLC? sebutkan dan jelaskan peran seperti apa yang QE dapat lakukan pada setiap fase tersebut!
