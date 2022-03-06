@@ -12,17 +12,23 @@ Halaman yang penulis ambil kali ini adalah:
 
 ### Halaman Masuk
 [masuk](./screenshots/login-page.png)
+
 Test Case yang dapat dilakukan antara lain:
+
 [masuk-tc](./screenshots/test-rail/kumaran/masuk.png)
 
 ### Halaman Buat Tulisan
 [buat-tulisan](./screenshots/buat-tulisan.png)
+
 Test Case yang dapat dilakukan antara lain:
+
 [buat-tulisan-tc](./screenshots/test-rail/kumaran/buat-tulisan.png)
 
 ### Halaman Dashboard
 [dashboard](./screenshots/dashboard.png)
+
 Test Case yang dapat dilakukan antara lain:
+
 [dashboard-tc](./screenshots/test-rail/kumaran/dashboard.png)
 
 ## Test Case Toko Online: Amazon
@@ -33,17 +39,23 @@ Halaman yang penulis ambil kali ini adalah:
 
 ### Halaman Shipping Address
 [shipping](./screenshots/shipping-address.png)
+
 Test Case yang dapat dilakukan antara lain:
+
 [shipping-tc](./screenshots/test-rail/amazon/shipping.png)
 
 ### Halaman Payment Method
 [payment](./screenshots/payment-method.png)
+
 Test Case yang dapat dilakukan antara lain:
+
 [payment-tc](./screenshots/test-rail/amazon/payment.png)
 
 ### Halaman Cart System
 [cart](./screenshots/shipping-cart.png)
+
 Test Case yang dapat dilakukan antara lain:
+
 [cart-tc](./screenshots/test-rail/amazon/cart.png)
 
 
@@ -52,13 +64,20 @@ Test Case yang dapat dilakukan antara lain:
 Setelah pembuatan Test Case, penulis membuat Milestone dan Test Run di kedua project.
 ## Milestone dan Test Run pada Portal Berita Kumparan
 Milestone:
+
 [milestone-kumparan](./screenshots/test-rail/kumparan-milestone-before-testing.png)
+
 Test Run:
+
 [tr-kumparan](./screenshots/test-rail/kumparan-test-run-before-testing.png)
+
 ## Milestone dan Test Run pada Toko Online Amazon
 Milestone:
+
 [milestone-kumparan](./screenshots/test-rail/amazon-milestone-before-testing.png)
+
 Test Run:
+
 [tr-kumparan](./screenshots/test-rail/amazon-test-run-before-testing.png)
 
 # Pembuatan Project dan Sprint pada Jira
@@ -73,27 +92,34 @@ Lalu, membuat 2 buah sprint yang dapat berjalan secara paralel.
 Setelah sprint dimulai, penulis akan eksekusi Test Case yang ada pada Test Rail. Hasilnya dapat dilihat di bawah ini.
 ## Hasil Eksekusi Test Case Portal Berita Kumparan
 [test-run-kumparan](./screenshots/test-rail/kumparan-test-run-after-testing.png)
+
 Berikut Overview untuk Portal Berita Kumparan setelah Testing:
+
 [overview-kumparan](./screenshots/test-rail/kumparan-milestone-after-testing.png)
 
 ## Hasil Eksekusi Test Case Toko Online Amazon
 [test-run-amazon](./screenshots/test-rail/amazon-test-run-after-testing.png)
+
 Berikut Overview untuk Toko Online Amazon setelah Testing:
+
 [overview-kumparan](./screenshots/test-rail/amazon-milestone-after-testing.png)
 
 Dari hasil eksekusi tersebut, kita dapat melihat bahwa ada beberapa Test Case yang berstatus Failed. Dari hasil tersebut bisa diindikasikan bug dan kita harus melaporkannya ke Jira. 
 
 # Bug Reporting pada Jira
 Setelah eksekusi dan ada Test Case yang berstatus Failed, hal tersebut berindikasi adanya Bug. Penulis melaporkan Bug dari kedua website. Perlu dicatat bahwa berikut ini merupakan penulisan bug yang ideal menurut penulis.
+
 [penulisan-bug](./screenshots/jira/contoh-penulisan-bug.png)
 
 Berikut Bug yang ditemukan:
 ## Bug pada Portal Berita Kumparan
 BTS-8 hingga BTS-10 merupakan bug cards.
+
 [bug-kumparan](./screenshots/jira/kumparan-cards.png)
 
 ## Bug pada Toko Online Amazon
 BTS-17 hingga BTS-19 merupakan bug cards.
+
 [bug-kumparan](./screenshots/jira/amazon-cards.png)
 
 # Start Sprint pada Jira
