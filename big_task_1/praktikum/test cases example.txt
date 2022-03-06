@@ -1,0 +1,48 @@
+input -> functional
+input invalid -> destructive
+check -> accessibility
+
+---register test case
+1. input valid data in register
+2. input invalid email in register
+3. input any gender
+4. input invalid address
+5. input symbol on user's name
+6. input password beyond the character limit 
+
+---search button (portal berita)
+1. input user's address
+2. input hot news keyword
+3. input journalist name
+4. input category name
+
+---dashboard
+1. check if dashboard is responsive
+2. check if web is accessible in desktop browser
+3. check if web is accessible in mobile browser
+4. check if web is accessible in incognito mode
+5. check if web is accessible if third-party cookies is on
+
+---login
+1. input valid email and password
+2. input valid email and invalid password
+3. input invalid email and invalid password
+4. input sql injection in email form
+5. input sql injection in password form
+
+check if-> functional
+---product
+1. check if product can be added to cart
+2. check if product can be checked out
+3. check if product can be loved/favorite
+4. check if product can be added to cart as guest/without login
+5. check if product can be shared
+6. check if product can be reviewed
+
+---checkout (shopee)
+1. checked koin shopee's checkbox if coin is 0
+2. set invalid address (not available in Indonesia)
+3. use expired voucher
+4. use shopeepay as payment method if credit is not enough
+5. checkout with all valid data
+

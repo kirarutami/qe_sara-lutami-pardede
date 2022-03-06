@@ -1,0 +1,40 @@
+toko online (amazon)
+== shipping address==
+1. memasukkan shipping address yang benar (+)
+2. memasukkan shipping address yang salah/tidak ada di dunia (-)
+3. memasukkan shipping address alamat di negara lain (-)
+==payment method==
+add credit/debit card
+1. memasukkan credir/debit card yang benar(+)
+2. memasukkan nama yang salah(-)
+3. memasukkan expiration date salah(-)
+
+1. input user's correct card number
+2. input user's correct name on card
+3. input user's correct card's expiration date
+4. click on "Add your card" button
+===cart===
+1. memasukkan produk ke keranjang(+)
+2. memasukkan produk ke keranjang melebihi batas pembelian per orang(-)
+3. menghapus produk dari keranjang(+)
+
+portal berita (kumparan)
+===masuk===
+1. memasukkan email yang benar dan password yang benar(+)
+2. memasukkan email yang benar dan password yang salah(-)
+3. memasukkan sql injection pada (-)
+==buat tulisan==
+user sudah login terlebih dahulu
+1. memasukkan judul dengan benar(+)
+2. memasukkan judul lebih dari limit karakter(-)
+3. memasukkan deskripsi lebih dari limit karakter(-)
+==dashboard==
+1. memastikan dashboard dapat diakses melalui desktop browser(+)
+2. memastikan dashboard dapat diakses melalui mobile browser(+)
+3. memeriksa apakah dashboard responsif di berbagai resolusi(+)
+
+
+
+
+
+jadi, ada test case di testrail, lalu ketika tester menjalankan test case dan menemukan bug, report nya itu ke Jira. Lalu akan di proses ke developer untuk dilakukan fixing yang kemudian akan di test kembali oleh tester di Jira
