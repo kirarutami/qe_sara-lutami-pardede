@@ -1,8 +1,8 @@
-package ongkoskirim;
+.package com.ongkoskirim;
 
 import java.util.Scanner;
 
-public class DemoTranslation {
+public class Main {
 	public static float p, l, t, k, b, hasil1, hasil2;
 
 	public static float volber(float p, float l, float t) {
