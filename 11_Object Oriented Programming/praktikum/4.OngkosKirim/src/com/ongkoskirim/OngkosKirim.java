@@ -1,8 +1,8 @@
-.package com.ongkoskirim;
+package com.ongkoskirim;
 
 import java.util.Scanner;
 
-public class Main {
+class Ongkos {
 	public static float p, l, t, k, b, hasil1, hasil2;
 
 	public static float volber(float p, float l, float t) {
@@ -38,7 +38,7 @@ public class Main {
 	public final static Scanner sc = new Scanner(System.in);
 }
 
-public class Main {
+public class OngkosKirim {
     public static void main(String[] args) {
     }
 }
