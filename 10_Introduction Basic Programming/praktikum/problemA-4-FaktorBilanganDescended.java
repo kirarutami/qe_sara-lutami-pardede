@@ -11,7 +11,7 @@ class faktorBilangan {
         bilangan=input.nextInt();
     
         System.out.print("Faktor Bilangan dari " +bilangan + " adalah: ");
-        for(int i=1; i  <= bilangan; i++){
+        for(int i=bilangan; i>=1; i--){
             if(bilangan%i == 0){
                 System.out.println(i  + " ");
         }
