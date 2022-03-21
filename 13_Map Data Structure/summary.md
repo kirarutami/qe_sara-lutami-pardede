@@ -1,5 +1,5 @@
 # Section 13 - MAP DATA STRUCTURE
-Materi yang dibahas :
+Rangkuman ini berisi:
 1. Apa itu MAP ?
 2. Implementasi pada MAP
 
