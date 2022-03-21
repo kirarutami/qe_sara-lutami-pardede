@@ -1,5 +1,5 @@
 # Section 15 - REST API TESTING
- Materi yang di bahas :
+Rangkuman ini berisi:
   1. API & REST API
   2. Rest API Component
   3. Testing API
