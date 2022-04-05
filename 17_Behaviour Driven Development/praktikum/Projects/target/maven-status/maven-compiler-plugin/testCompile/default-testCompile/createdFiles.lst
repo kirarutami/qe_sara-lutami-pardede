@@ -1,0 +1,7 @@
+starter\stepdefinitions\MakePostSteps.class
+starter\followCompany\followCompany.class
+starter\CucumberTestSuite.class
+starter\stepdefinitions\FollowCompanySteps.class
+starter\makePost\makePost.class
+starter\searchBar\searchBar.class
+starter\stepdefinitions\SearchBarSteps.class
