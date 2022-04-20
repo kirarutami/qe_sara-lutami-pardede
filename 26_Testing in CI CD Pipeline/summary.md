@@ -1,4 +1,7 @@
 ## Section 26 - Testing in CI/CD Pipeline
+
+[Repository Latihan](https://github.com/kirarutami/belajar-ci/)
+
 Rangkuman ini berisi:
 1. Pengertian Continuous Integration
 2. Pengertian Continuous Delivery 
@@ -62,3 +65,4 @@ Continuous Delivery menambahkan bahwa perangkat lunak dapat dirilis ke produksi 
 6. Github Actions
 7. Travis CI
 8. GitLab CI
+
