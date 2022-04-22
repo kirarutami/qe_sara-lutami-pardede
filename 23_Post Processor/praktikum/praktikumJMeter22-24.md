@@ -38,7 +38,7 @@
 ![!Aggregate Report](../../24_Understanding%20Jmeter%20Results/screenshots/Agregate%20Report.png)
 
 ### Summary Report
-[!Summary Report](../../24_Understanding%20Jmeter%20Results/screenshots/Summary%20Report.png)
+![!Summary Report](../../24_Understanding%20Jmeter%20Results/screenshots/Summary%20Report.png)
 
 
 
