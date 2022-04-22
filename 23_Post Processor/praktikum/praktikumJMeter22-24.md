@@ -4,16 +4,16 @@
 
 ## Section 22 - HTTP Request dan Assertions
 ### HTTP Request
-![!GET contacts](../screenshots/GET%20contacts.png)
+![!GET contacts](../../22_Introduction%20JMeter%20and%20Tutorial%20Record%20with%20JMeter/screenshots/GET%20contacts.png)
 
-![!GET food](../screenshots/GET%foods.png)
+![!GET food](../../22_Introduction%20JMeter%20and%20Tutorial%20Record%20with%20JMeter/screenshots/GET%20foods.png)
 
-![!GET products](../screenshots/GET%20products.png)
+![!GET products](../../22_Introduction%20JMeter%20and%20Tutorial%20Record%20with%20JMeter/screenshots/GET%20products.png)
 
 ### Assertions
-![!Response Assertion Code](../screenshots/Response%20Assertion%20Code.png)
+![!Response Assertion Code](../../22_Introduction%20JMeter%20and%20Tutorial%20Record%20with%20JMeter/screenshots/Response%20Assertion%20Code.png)
 
-![!Response Assertion Code](../screenshots/Response%20Assertion%20Message.png)
+![!Response Assertion Code](../../22_Introduction%20JMeter%20and%20Tutorial%20Record%20with%20JMeter/screenshots/Response%20Assertion%20Message.png)
 
 ## Section 23 - Post Processor
 ### JSON Extractor GET contacts
@@ -39,3 +39,6 @@
 
 ### Summary Report
 [!Summary Report](../../24_Understanding%20Jmeter%20Results/screenshots/Summary%20Report.png)
+
+
+
